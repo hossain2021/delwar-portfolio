@@ -12,6 +12,7 @@ h1{
 }
 .top-banner{
     display: flex;
+    background-image: url(images/top-banner.png);
     
 }
 .half-width{
@@ -20,4 +21,10 @@ h1{
 }
 .half-width img{
     width: 70%;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 15px;
+    border-radius: 5px;
 }
